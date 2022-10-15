@@ -2,7 +2,7 @@
 
 The file to process should be passed in as an argument.
 ```
-$ e3proc test-file.gcode
+$ python3 e3proc.py test-file.gcode
 ```
 
 The script will prompt the user for a destination file path where the processed file will be saved.
